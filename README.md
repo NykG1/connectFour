@@ -12,3 +12,10 @@ Notes:
 
 The AI for this game could be improved quite a bit. This project was made to include
 a very simple bot player as it was not the main focus.
+
+To run JavaDoc, type "make doc". The documentation will then be stored in a directory called "doc".
+A few errors will display when running this command because some things are not commented.
+
+To build the .class files, type "make build".
+
+To remove the .class files, type "make clean".

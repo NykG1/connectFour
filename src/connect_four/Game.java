@@ -1,5 +1,6 @@
 // connect_four.Game.java
 // CSC 243, Spring 2020
+// File was originally made by Dr. Schwesinger, updated and edited by Nik Golombek
 
 package connect_four;
 

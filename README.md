@@ -9,6 +9,8 @@ How to run:
   3. to play with one real player and 1 AI player, type "make runAI"
 
 Notes:
+As mentioned, this was a class project. The skeletons of these files were handed out
+by my professor, Dr. Schwesinger, and then updated and edited by myself.
 
 The AI for this game could be improved quite a bit. This project was made to include
 a very simple bot player as it was not the main focus.
